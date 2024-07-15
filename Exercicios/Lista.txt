@@ -21,3 +21,11 @@ considerando o preco normal de etiqueta e a escolha da condicao de pagamento:
 - A vista no dinheiro ou pix, recebe 15% de desconto;
 - Em duas vezes, preco normal de etiqueta sem juros;
 - Acima de duas vezes, preco normal da etiqueta com juros de 10%;
+
+Exercicio 4: Exibir no console a string Meu nome eh "NOME". Estou aprendendo Javascript as 10 da manha.
+
+Exercicio 5: Recupere o nome, sobrenome, altura, idade e peso de uma pessoa e calcule o seu IMC, no final imprima todas essas informações com seu ano de nascimento calculado.
+    formula IMC = peso / (altura * altura)
+
+
+Exercicio 6: Faça com que o valor de A aponte para o valor de B, o valor de B aponte para C e o valor de C aponte para A.
